@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @gunnmetall
+- 👋 Hi, I’m Abhishek
 - 👀 I’m interested in web dev
 - 🌱 I’m currently learning ML
 - 💞️ I’m looking to collaborate on all sorts of project
