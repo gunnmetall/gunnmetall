@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Abhishek Singh :)<br>👀 I recently completed my undergraduate from IIT Jodhpur.<br>🌱 Interested in Web Development, Machine Learning and Data Science.<br>💞️ Currently learning AWS and Cloud Computing.
+👋 Hi, I’m Abhishek Singh :)<br>👀🌱 Interested in Web Development, Machine Learning and Data Science.<br>💞️ Currently learning system design advanced.
 
 
 ## 🌐 Socials:
